@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "ewb200",
+  "builds": [
+    {
+      "src": "graphql/index.js",
+      "use": "@now/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/.*",
+      "dest": "graphql/index.js"
+    }
+  ]
+}
