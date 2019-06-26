@@ -5,6 +5,7 @@
       "title": "Introduction to GraphQL",
       "description": "GraphQL empowers more flexibility into your APIs. Learn to build GraphQL APIs with Apollo Server and create GraphQL Schemas using scalar types, object type, queries and mutations.",
       "tags": ["graphql"],
+      "category": "GraphQL",
       "authorId": "eeab1ea8-64ee-4a98-a1f5-05b12e67e57c",
       "modules": [
         {
