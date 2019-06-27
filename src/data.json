@@ -7,6 +7,7 @@
       "tags": ["graphql"],
       "category": "GraphQL",
       "authorId": "eeab1ea8-64ee-4a98-a1f5-05b12e67e57c",
+      "url": "introduction-to-graphql",
       "modules": [
         {
           "title": "Introduction",
@@ -95,265 +96,309 @@
       "_id": "30df3537-6dfe-49dc-9e09-74c426b08828",
       "title": "Introduction",
       "description": "Scott introduces the course repo, and recommends tools that will be utilized in the course. - https://github.com/FrontendMasters/intro-to-graphql",
-      "videoUrl": "https://greatcourses.com/video/30df3537"
+      "videoUrl": "https://greatcourses.com/video/30df3537",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/30df3537"
     },
     {
       "_id": "357bde18-07c9-4c13-8a73-524d4e03c085",
       "title": "What is GraphQL?",
       "description": "Scott defines the key points to know about GraphQL",
-      "videoUrl": "https://greatcourses.com/video/357bde18"
+      "videoUrl": "https://greatcourses.com/video/357bde18",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/357bde18"
     },
     {
       "_id": "2f226a2d-be4a-4495-8b3e-c56e1a530b86",
       "title": "GraphQL vs REST",
       "description": "Scott contrasts GraphQL and REST because the two are often confused",
-      "videoUrl": "https://greatcourses.com/video/2f226a2d"
+      "videoUrl": "https://greatcourses.com/video/2f226a2d",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/2f226a2d"
     },
     {
       "_id": "82d8fedb-f448-4b13-bf09-7d2a7c6f22d1",
       "title": "Course Code Overviewdiv>",
       "description": "Scott goes over the package.json, environment variables, and a brief overview of what the rest of the course repository contains. The context of the API that will be created is also discussed",
-      "videoUrl": "https://greatcourses.com/video/82d8fedb"
+      "videoUrl": "https://greatcourses.com/video/82d8fedb",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/82d8fedb"
     },
     {
       "_id": "6f04955a-ba6f-472f-9e56-f2e4eed5ca72",
       "title": "GraphQL Basics & Starting the Server",
       "description": "Scott demonstrates how to create simple types in the schema, and starts the server",
-      "videoUrl": "https://greatcourses.com/video/6f04955a"
+      "videoUrl": "https://greatcourses.com/video/6f04955a",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/6f04955a"
     },
     {
       "_id": "d9287d63-b823-4455-960f-51af038b2f9f",
       "title": "GraphQL Playground",
       "description": "Scott demonstrates some of the capabilities of the GraphQL playground",
-      "videoUrl": "https://greatcourses.com/video/d9287d63"
+      "videoUrl": "https://greatcourses.com/video/d9287d63",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/d9287d63"
     },
     {
       "_id": "6368d531-5016-400b-8799-6f8c875b7255",
       "title": "GraphQL Exploration Exercise",
       "description": "Students are instructed to set aside 10 minutes to explore the code, and the GraphQL playground",
-      "videoUrl": "https://greatcourses.com/video/6368d531"
+      "videoUrl": "https://greatcourses.com/video/6368d531",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/6368d531"
     },
     {
       "_id": "e899a02e-1e40-4aa1-a784-63ef2a76f379",
       "title": "GraphQL Q&A",
       "description": "Questions are asked about the VSCode GraphQL extension, a clarification about the schemas and resolvers, and Apollo server's relation to Express",
-      "videoUrl": "https://greatcourses.com/video/e899a02e"
+      "videoUrl": "https://greatcourses.com/video/e899a02e",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/e899a02e"
     },
     {
       "_id": "080d5c41-9178-43da-a1fc-b5ba8a737b66",
       "title": "GraphQL Exploration Review",
       "description": "Scott demonstrates how to create a type that is type String instead of an Object",
-      "videoUrl": "https://greatcourses.com/video/080d5c41"
+      "videoUrl": "https://greatcourses.com/video/080d5c41",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/080d5c41"
     },
     {
       "_id": "28e34dca-b1a2-4e83-bad0-debad83bdaf5",
       "title": "GraphQL Schemas",
       "description": "Scott contrasts the GraphQL and database schemas",
-      "videoUrl": "https://greatcourses.com/video/28e34dca"
+      "videoUrl": "https://greatcourses.com/video/28e34dca",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/28e34dca"
     },
     {
       "_id": "0a1f5213-7667-4501-ba9f-81954c129186",
       "title": "Schema Definition Language",
       "description": "Scott explains why a Schema Definition Language, or SDL, is the best way to create schemas",
-      "videoUrl": "https://greatcourses.com/video/0a1f5213"
+      "videoUrl": "https://greatcourses.com/video/0a1f5213",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/0a1f5213"
     },
     {
       "_id": "2405df11-85f1-46bd-968e-b6a8fa5d87e9",
       "title": "Scalar & Object Types",
       "description": "Scott describes what scalars are and the object types that exist in GraphQL",
-      "videoUrl": "https://greatcourses.com/video/2405df11"
+      "videoUrl": "https://greatcourses.com/video/2405df11",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/2405df11"
     },
     {
       "_id": "81c68a57-49c8-41cd-bffa-c78d6d67c306",
       "title": "Validations: Non Nullable & List",
       "description": "Scott demonstrates how to require that a field be populated by GraphQL",
-      "videoUrl": "https://greatcourses.com/video/81c68a57"
+      "videoUrl": "https://greatcourses.com/video/81c68a57",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/81c68a57"
     },
     {
       "_id": "d5f4cff5-4efb-4837-9f83-17ed4b98252a",
       "title": "GraphQL Cheat Sheet",
       "description": "Scott references a resource to utilize when constructing a GraphQL Schema",
-      "videoUrl": "https://greatcourses.com/video/d5f4cff5"
+      "videoUrl": "https://greatcourses.com/video/d5f4cff5",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/d5f4cff5"
     },
     {
       "_id": "8eaaed3d-1a06-449f-bfa9-704535120a49",
       "title": "Query & Mutation Types",
       "description": "Scott explains why queries and mutations are instrumental in a functional API",
-      "videoUrl": "https://greatcourses.com/video/8eaaed3d"
+      "videoUrl": "https://greatcourses.com/video/8eaaed3d",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/8eaaed3d"
     },
     {
       "_id": "588485b0-dec1-416a-a628-b70274989c2e",
       "title": "Writing a Mutation Type",
       "description": "Scott demonstrates how to write a mutation with an input type",
-      "videoUrl": "https://greatcourses.com/video/588485b0"
+      "videoUrl": "https://greatcourses.com/video/588485b0",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/588485b0"
     },
     {
       "_id": "f7c7c597-0cfd-49fc-a2f3-50e24b45b26b",
       "title": "Create a Schema Exercise",
       "description": "Students are instructed to create a schema that passes several tests that check for fields, queries, and mutations",
-      "videoUrl": "https://greatcourses.com/video/f7c7c597"
+      "videoUrl": "https://greatcourses.com/video/f7c7c597",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/f7c7c597"
     },
     {
       "_id": "6cb177e2-f6f1-4494-a838-25245700ab97",
       "title": "Create a Schema Solution",
       "description": "Scott live codes the solution to the exercise",
-      "videoUrl": "https://greatcourses.com/video/6cb177e2"
+      "videoUrl": "https://greatcourses.com/video/6cb177e2",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/6cb177e2"
     },
     {
       "_id": "8df94adf-8143-4c5e-9831-ef53aaa1c9d2",
       "title": "GraphQL Schemas Q&A",
       "description": "Questions are asked regarding where the GQL file gets used, if content is required to be returned, what the schema would look like in a real world application",
-      "videoUrl": "https://greatcourses.com/video/8df94adf"
+      "videoUrl": "https://greatcourses.com/video/8df94adf",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/8df94adf"
     },
     {
       "_id": "17cb8b3c-ba5b-4259-b4be-a7f101ef485e",
       "title": "Resolvers",
       "description": "Scott introduces what Resolvers are, and why they matter",
-      "videoUrl": "https://greatcourses.com/video/17cb8b3c"
+      "videoUrl": "https://greatcourses.com/video/17cb8b3c",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/17cb8b3c"
     },
     {
       "_id": "33ecb15e-bfd0-40b8-aa49-b28258644834",
       "title": "Resolver Arguments",
       "description": "Scott demonstrates how to start writing a resolver that takes a starting object, any arguments from the incoming request, context, and AST of the incoming request",
-      "videoUrl": "https://greatcourses.com/video/33ecb15e"
+      "videoUrl": "https://greatcourses.com/video/33ecb15e",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/33ecb15e"
     },
     {
       "_id": "ec0bcbd5-d81e-4b47-878e-bcecfe8e031c",
       "title": "Errors in Resolvers",
       "description": "Scott explains how errors are handled in GraphQL",
-      "videoUrl": "https://greatcourses.com/video/ec0bcbd5"
+      "videoUrl": "https://greatcourses.com/video/ec0bcbd5",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/ec0bcbd5"
     },
     {
       "_id": "3691a5fd-c709-466f-b2a3-75249fad2fa6",
       "title": "Implimenting a Resolver",
       "description": "Scott live codes several resolvers to demonstrate how the data is called",
-      "videoUrl": "https://greatcourses.com/video/3691a5fd"
+      "videoUrl": "https://greatcourses.com/video/3691a5fd",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/3691a5fd"
     },
     {
       "_id": "f4611da0-4d7e-4700-958e-e5603fd97b0a",
       "title": "Field Type Resolvers",
       "description": "Scott live codes field types underneath the resolvers",
-      "videoUrl": "https://greatcourses.com/video/f4611da0"
+      "videoUrl": "https://greatcourses.com/video/f4611da0",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/f4611da0"
     },
     {
       "_id": "9cb5ca61-057a-437c-87c5-22976e329448",
       "title": "Nested Resolvers",
       "description": "Scott demonstrates how resolvers can reference other resolvers and return a value",
-      "videoUrl": "https://greatcourses.com/video/9cb5ca61"
+      "videoUrl": "https://greatcourses.com/video/9cb5ca61",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/9cb5ca61"
     },
     {
       "_id": "013195c9-d443-43af-8f22-0d27b78d8e12",
       "title": "Relational Data",
       "description": "Scott demonstrates why GraphQL needs to be strongly typed by walking through an example involving relational data",
-      "videoUrl": "https://greatcourses.com/video/013195c9"
+      "videoUrl": "https://greatcourses.com/video/013195c9",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/013195c9"
     },
     {
       "_id": "6bc1770f-64f2-46ba-9ce2-3e0af55c5a4d",
       "title": "Query Errors",
       "description": "Scott demonstrates what an error looks like as a response from the API",
-      "videoUrl": "https://greatcourses.com/video/6bc1770f"
+      "videoUrl": "https://greatcourses.com/video/6bc1770f",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/6bc1770f"
     },
     {
       "_id": "8940eb89-0448-4174-91f5-5d7037cb1abc",
       "title": "Info Resolver Argument",
       "description": "Scott shows the audience what the info argument looks like to give context to what is meant by an AST",
-      "videoUrl": "https://greatcourses.com/video/8940eb89"
+      "videoUrl": "https://greatcourses.com/video/8940eb89",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/8940eb89"
     },
     {
       "_id": "398198ce-0dec-43be-94ed-5d9515d97933",
       "title": "Resolvers Exercise",
       "description": "Students are instructed to create resolvers for the Queries and Mutations on the product type",
-      "videoUrl": "https://greatcourses.com/video/398198ce"
+      "videoUrl": "https://greatcourses.com/video/398198ce",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/398198ce"
     },
     {
       "_id": "c80c99a6-508e-444a-b8f5-9c16bb40dcd7",
       "title": "Resolvers Solution",
       "description": "Scott live codes the solution to the exercise",
-      "videoUrl": "https://greatcourses.com/video/c80c99a6"
+      "videoUrl": "https://greatcourses.com/video/c80c99a6",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/c80c99a6"
     },
     {
       "_id": "bda7082b-6ac7-48a1-b718-8e6e8b810f11",
       "title": "Resolvers Q&A",
       "description": "Scott answers questions from the audience about clarifications on the last exercise, including how Apollo is processing the schema, extending the current example, and usage of the spread operator in this case",
-      "videoUrl": "https://greatcourses.com/video/bda7082b"
+      "videoUrl": "https://greatcourses.com/video/bda7082b",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/bda7082b"
     },
     {
       "_id": "4c8d1967-243f-491a-a567-27750f11cc99",
       "title": "Interfaces",
       "description": "Scott explains how to utilize interfaces as a base type when types are very similar",
-      "videoUrl": "https://greatcourses.com/video/4c8d1967"
+      "videoUrl": "https://greatcourses.com/video/4c8d1967",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/4c8d1967"
     },
     {
       "_id": "3ae9e5f7-c5ab-4799-b8f5-bbcc4f4737bb",
       "title": "Unions",
       "description": "Scott explains how to utilize unions, which allow the user to return more than just one type",
-      "videoUrl": "https://greatcourses.com/video/3ae9e5f7"
+      "videoUrl": "https://greatcourses.com/video/3ae9e5f7",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/3ae9e5f7"
     },
     {
       "_id": "79930c49-fab0-43ec-bca6-ccb4c8fe830d",
       "title": "Interfaces Exercise",
       "description": "Students are instructed to create an interface from the product type, then create types for each possible type",
-      "videoUrl": "https://greatcourses.com/video/79930c49"
+      "videoUrl": "https://greatcourses.com/video/79930c49",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/79930c49"
     },
     {
       "_id": "8cbc8e52-5ae8-49bb-bf42-267a27b67362",
       "title": "Interfaces Solution",
       "description": "Scott live codes the solution to the exercise",
-      "videoUrl": "https://greatcourses.com/video/8cbc8e52"
+      "videoUrl": "https://greatcourses.com/video/8cbc8e52",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/8cbc8e52"
     },
     {
       "_id": "6fe66c17-262a-4a47-87e5-363587874b01",
       "title": "Authentication",
       "description": "Scott introduces several ways that authentication could take place",
-      "videoUrl": "https://greatcourses.com/video/6fe66c17"
+      "videoUrl": "https://greatcourses.com/video/6fe66c17",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/6fe66c17"
     },
     {
       "_id": "7f0c121c-d0f4-4593-bcc6-95f3d53078eb",
       "title": "Authentication Exercise",
       "description": "Students are instructed to authenticate a request, and block requests when appropriate",
-      "videoUrl": "https://greatcourses.com/video/7f0c121c"
+      "videoUrl": "https://greatcourses.com/video/7f0c121c",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/7f0c121c"
     },
     {
       "_id": "222a3c22-4fdf-4f78-acd2-0666fc54de70",
       "title": "Authentication Solution",
       "description": "Scott live codes the solution to the exercise",
-      "videoUrl": "https://greatcourses.com/video/222a3c22"
+      "videoUrl": "https://greatcourses.com/video/222a3c22",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/222a3c22"
     },
     {
       "_id": "969736f0-53a3-4f6e-bd3a-176375998d19",
       "title": "Testing with Jest",
       "description": "Scott gives an overview on how the tests were written for the course",
-      "videoUrl": "https://greatcourses.com/video/969736f0"
+      "videoUrl": "https://greatcourses.com/video/969736f0",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/969736f0"
     },
     {
       "_id": "af30f9c8-6689-443d-a359-0b4efbf1e46f",
       "title": "Caching & Performance",
       "description": "Scott gives references to resources, and strategies to handle caching, and improve performance",
-      "videoUrl": "https://greatcourses.com/video/af30f9c8"
+      "videoUrl": "https://greatcourses.com/video/af30f9c8",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/af30f9c8"
     },
     {
       "_id": "71f0b321-22d4-4ff6-b052-f5a5154087e9",
       "title": "Dates & Custom Scalars",
       "description": "Scott gives a reference to explore more on dates and custom scalars",
-      "videoUrl": "https://greatcourses.com/video/71f0b321"
+      "videoUrl": "https://greatcourses.com/video/71f0b321",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/71f0b321"
     },
     {
       "_id": "d1ca74ff-49ac-43ff-a6e5-18ddcf8e5393",
       "title": "Layering GraphQL on REST",
       "description": "Scott gives thoughts on layering GraphQL on to of REST",
-      "videoUrl": "https://greatcourses.com/video/d1ca74ff"
+      "videoUrl": "https://greatcourses.com/video/d1ca74ff",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/d1ca74ff"
     },
     {
       "_id": "56912e42-cc58-454b-87b2-815976118feb",
       "title": "Sending Multiple Queries",
       "description": "Scott demonstrates how to use an alias to perform two requests on a GraphQL server at the same time",
-      "videoUrl": "https://greatcourses.com/video/56912e42"
+      "videoUrl": "https://greatcourses.com/video/56912e42",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/56912e42"
     },
     {
       "_id": "4634fae6-df3d-4525-8da9-70a8e98f5e32",
       "title": "More GraphQL Tools & Services",
       "description": "Scott gives examples of several products that will spin up a GraphQL API for you, tools to make GraphQL easy to work with anywhere, and other resources",
-      "videoUrl": "https://greatcourses.com/video/4634fae6"
+      "videoUrl": "https://greatcourses.com/video/4634fae6",
+      "url": "https://greatcourses.com/introduction-to-graphql/lesson/4634fae6"
     }
   ],
   "users": [

@@ -41,6 +41,7 @@ module.exports = gql`
     description: String!
     videoUrl: String!
     transcript: String
+    url: String!
   }
 
   """
@@ -68,6 +69,7 @@ module.exports = gql`
       @deprecated(
         reason: "Support for categories will be discontinued soon. Please use tags in order to search."
       )
+    url: String!
   }
 
   """
@@ -79,6 +81,7 @@ module.exports = gql`
     description: String!
     videoUrl: String!
     transcript: String
+    url: String!
   }
 
   type Query {
